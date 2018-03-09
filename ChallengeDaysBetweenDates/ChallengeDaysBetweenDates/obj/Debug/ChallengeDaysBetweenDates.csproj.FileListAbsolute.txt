@@ -1,0 +1,9 @@
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll.config
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.dll
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\ChallengeDaysBetweenDates.pdb
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csprojResolveAssemblyReference.cache
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.dll
+C:\Users\windows7\Desktop\Practice_C#\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\ChallengeDaysBetweenDates\obj\Debug\ChallengeDaysBetweenDates.pdb
